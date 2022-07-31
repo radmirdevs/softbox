@@ -1,16 +1,16 @@
 {
-    "source": "https://kinoplay.izifilm.net/",
+    "source": "https://softbox.tv/",
     "dist": {
         "android": {
             "file": "https://kino-play.app/releases/Kinoplay-0.1.6.apk",
             "download": "https://kino-play.app/download/android",
-            "version": "0.1.6"
+            "version": "0.1.1"
         },
         "windows": {
             "file_x64": "https://kino-play.app/releases/Kinoplay-x64-0.1.6.msi",
             "file_x86": "https://kino-play.app/releases/Kinoplay-x86-0.1.6.msi",
             "download": "https://kino-play.app/download/windows",
-            "version": "0.1.6"
+            "version": "0.1.1"
         }
     }
 }
